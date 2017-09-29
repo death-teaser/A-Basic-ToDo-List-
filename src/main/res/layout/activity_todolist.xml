@@ -12,12 +12,4 @@
         android:layout_height="495dp"
         tools:layout_editor_absoluteX="8dp"
         tools:layout_editor_absoluteY="8dp" />
-
-    <TextView
-        android:id="@+id/ttext"
-        android:layout_width="0dp"
-        android:layout_height="495dp"
-        tools:layout_editor_absoluteX="8dp"
-        tools:layout_editor_absoluteY="8dp" />
-
 </android.support.constraint.ConstraintLayout>
